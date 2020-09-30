@@ -1,21 +1,12 @@
 {
   "deployments": [
-    {
-      "id": 1,
-      "title": "Hi deployment"
-    }
+    { "id": 1, "title": "Hi deployment" }
   ],
   "users": [
-    {
-      "id": 2,
-      "title": "Hi user"
-    }
+    { "id": 2, "title": "Hi user" }
   ],
-  "test/posts": [
-    {
-      "id": 5,
-      "title": "Hi posts"
-    }
+  "posts": [
+    { "id": 5, "title": "Hi posts" }
   ],
   "profile": {
     "name": "typicode"
